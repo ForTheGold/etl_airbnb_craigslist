@@ -3,7 +3,7 @@ Extract AirBnB CSV and scrape Craigslist apartment listings/ combine datasets an
 
 ## Extract & Transform:
 * View how to leveraged ChromeDriver and scraped Craigslist apt listings [here](Craigslist_Scrape.ipynb)
-* View how many cleansed the AirBnB 2018 San Francisco listings CSV and merged it with Craigslist data [here](AirBnB_Craigs_Merge.ipynb)
+* [Here](AirBnB_Craigs_Merge.ipynb) is how I cleansed the AirBnB 2018 San Francisco listings CSV and merged it with the Craigslist data 
 
 ## Load:
 [Here](Load_Data.ipynb) is the code I used to load my final dataframe & dictionary into MySQL and MongoDB + export to Excel!
