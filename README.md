@@ -1,5 +1,5 @@
 # ETL Project:
-Extract AirBnB CSV and scrape Craigslist apartment listings/ combine datasets and load to MongoDB &amp; MySQL
+Extract AirBnB CSV and scrape Craigslist apartment listings/ combine datasets and load into MongoDB &amp; MySQL
 
 
 ## Extract & Transform:
