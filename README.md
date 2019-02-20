@@ -15,7 +15,7 @@ Extract AirBnB CSV and scrape Craigslist apartment listings/ combine datasets an
 
 
 ## Load:
-[Here](Load_Data.ipynb) is the code I used to load my final dataframe & dictionary into MySQL and MongoDB + export to Excel!
+* [Here](Load_Data.ipynb) is the code I used to load my final dataframe & dictionary into MySQL and MongoDB + export to Excel!
 
 #### Type of final production database:
 * Relational: MySQL
