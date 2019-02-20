@@ -26,7 +26,8 @@ Below is the path for my Excel spreadsheets:
 * [AirBnB CSV](AirBnB_SF.csv)
 * [AirBnB + Craigslist Data](AirBnB_Craigs_Data.xlsx)
 
-### *Goal:*
+
+## *Goal:*
 * Is there any correlation between AirBnB nightly prices and Craigslists apartment listings monthly rent? 
     * By neighborhood? 
     * By size? 
